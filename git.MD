@@ -1,6 +1,8 @@
 Swash commits and rebase
 * Update the remote branch
-`git pull origin master`
+`git checkout master`
+`git pull`
+`git checkout feature/branchname`
 
 * Squash all commits made after branching
 Run following to see log commit log history 
